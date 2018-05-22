@@ -1,2 +1,3 @@
 # hello-world
 Hello world!
+I want to learn to be a more experienced programmer, though I am just a new comer now... 
